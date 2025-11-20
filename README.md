@@ -1,4 +1,6 @@
 # Certificate-of-Deposit-Calculator
+
+The certificate of deposit calculator allows the user to  
 involves two possible outcomes. If the logical expression is True, a set of one or more statements is executed; if it is False, a different set of one or more statements is executed. To choose between two outcomes, Python provides the else keyword. The syntax and pattern of these statements is as follows:
 
 For Example
